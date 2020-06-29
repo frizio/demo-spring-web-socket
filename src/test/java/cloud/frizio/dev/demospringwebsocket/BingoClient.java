@@ -27,7 +27,7 @@ public class BingoClient {
       
       connectionManagers.add( connectionManager );
       
-      connectionManager.start();			
+      connectionManager.start();
     }
     
     Scanner input = new Scanner(System.in);
